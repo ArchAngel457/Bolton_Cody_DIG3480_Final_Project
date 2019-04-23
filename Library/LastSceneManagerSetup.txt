@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/_Hard_Mode_Scene.unity
+  isLoaded: 1
+  isActive: 1
